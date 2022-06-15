@@ -1,0 +1,13 @@
+{
+  "name": "chatsocket",
+  "version": "0.0.1",
+  "description": "chat simple socket",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.1.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
